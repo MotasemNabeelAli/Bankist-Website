@@ -3,7 +3,7 @@
 A simple banking web application developed with JavaScript.
 The Bankist app is a basic web-based banking application that allows users to perform typical banking operations, such as account login, money transfers, loan requests, and more. This project focuses on the JavaScript functionality of the app.
 
-## Features
+## Features <img src="https://github.com/MotasemNabeelAli/Palestine_Martyrs_Organizer/assets/97013908/7fc60202-2d63-443c-acbc-621634d0952e" width="40">
 
 - User login and authentication.
 - Money transfers between accounts.
@@ -11,7 +11,7 @@ The Bankist app is a basic web-based banking application that allows users to pe
 - Account closure functionality.
 - Movement sorting for account transactions.
 
-## Getting Started
+## Installation
 
 1. Clone the repository to your local machine:
    ```shell
