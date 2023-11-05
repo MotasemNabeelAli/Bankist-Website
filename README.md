@@ -11,7 +11,7 @@ The Bankist app is a basic web-based banking application that allows users to pe
 - Account closure functionality.
 - Movement sorting for account transactions.
 
-## Installation
+## Installation <img src="https://github.com/MotasemNabeelAli/Palestine_Martyrs_Organizer/assets/97013908/2899a7a2-b3e8-4695-91aa-0c8b722cc87f" width="40">
 
 1. Clone the repository to your local machine:
    ```shell
