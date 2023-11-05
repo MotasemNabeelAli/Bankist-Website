@@ -20,7 +20,7 @@ The Bankist app is a basic web-based banking application that allows users to pe
 3. Use the provided sample accounts or create your own account.
 4. Explore and interact with the banking features.
 
-## Usage
+## Usage <img src="https://github.com/MotasemNabeelAli/Palestine_Martyrs_Organizer/assets/97013908/249180b1-fb2d-461f-94ca-aeb5ecbb21b6" width="40">
 
 To use the Bankist app, follow these simple steps:
 1. Log in with your account.
