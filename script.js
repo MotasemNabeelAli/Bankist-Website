@@ -130,6 +130,7 @@ const createMovement = function (value, i, date, account) {
   `;
   return html;
 };
+
 //display the movements of the current account
 const displayMovements = function (account, movements) {
   containerMovements.innerHTML = '';
@@ -195,6 +196,7 @@ const closeAccount = function () {
     const accountIndex = accounts.findIndex(
       account => account.username === currentAccount.username
     );
+
     //delete the current account
     accounts.splice(accountIndex, 1);
     containerApp.style.opacity = 0;
@@ -226,6 +228,7 @@ btnLogin.addEventListener('click', function (e) {
   currentAccount = accounts.find(
     account => account.username === inputLoginUsername.value
   );
+
   //if the account exist then check for the pin method
   if (currentAccount?.pin === +inputLoginPin.value) {
     labelWelcome.textContent = `Welcome Back, ${
@@ -287,6 +290,7 @@ btnClose.addEventListener('click', function (e) {
 btnLoan.addEventListener('click', function (e) {
   e.preventDefault();
   const amount = Math.floor(inputLoanAmount.value);
+
   //you only take loan if you have deposit that is 10% of the amount requested
   if (
     amount > 0 &&
