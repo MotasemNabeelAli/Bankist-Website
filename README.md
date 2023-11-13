@@ -23,7 +23,7 @@ The Bankist app is a basic web-based banking application that allows users to pe
 ## Usage <img src="https://github.com/MotasemNabeelAli/Palestine_Martyrs_Organizer/assets/97013908/249180b1-fb2d-461f-94ca-aeb5ecbb21b6" width="40">
 
 To use the Bankist app, follow these simple steps:
-1. Log in with your account.
+1. Log in with your account e.g: Motasem Ali : ma , pin : 4444
 2. Transfer money between accounts.
 3. Request a loan based on set conditions.
 4. Close your account if needed
