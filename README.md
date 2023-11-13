@@ -15,7 +15,7 @@ The Bankist app is a basic web-based banking application that allows users to pe
 
 1. Clone the repository to your local machine:
    ```shell
-   git clone https://github.com/your-username/bankist-app.git
+   git clone https://github.com/MotasemNabeelAli/bankist-app.git
 2. Open the 'index.html' file in your web browser.
 3. Use the provided sample accounts or create your own account.
 4. Explore and interact with the banking features.
